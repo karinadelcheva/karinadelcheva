@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**karinadelcheva/karinadelcheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-G4vr0ch3/README.md
-
-Howdy! Welcome on my Github 😊
+### Howdy! Welcome on my Github 😊
 
 Whoami?
 
