@@ -3,14 +3,27 @@
 <!--
 **karinadelcheva/karinadelcheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+G4vr0ch3/README.md
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Howdy! Welcome on my Github 😊
+
+Whoami?
+
+👦 I'm 27
+🌱 I work as a fullstack developer
+🚩 I am trying out CTFs as a hoby
+
+What's on my Github ?
+A few of my projects :
+Pichforker - my first package 🥹 it's a middleware for the Pitchfork API
+Some Angular projects
+Some React projects
+Some bots and scrapers
+
+What can I do ?
+Programming :
+								
+Bash	Python	TS JS Node SQL R C++ 
+Operating systems :
+						
+Windows	Android	Linux	Debian	Ubuntu
