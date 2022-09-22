@@ -1,4 +1,4 @@
-### Howdy! Welcome on my Github 😊
+### Hi! Welcome on my Github 😊
 
 ## Whoami ?
 
