@@ -21,8 +21,7 @@
 
 ###### Programming :
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=karinadelcheva&theme=tokyonight_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://skyline.github.com/karinadelcheva/2022) 
+![GitHub Streak](https://streak-stats.demolab.com?user=karinadelcheva&theme=tokyonight_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
 <br />
 
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"> | <img src="https://seeklogo.com/images/C/css-3-logo-A4E6678598-seeklogo.com.png"  height="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"> |
