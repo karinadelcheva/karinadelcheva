@@ -2,6 +2,7 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=karinadelcheva&theme=tokyonight_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
+</div>
 <br />
 
 ## Whoami ?
@@ -35,11 +36,3 @@
 | :-: | :-: | :-: | :-: | :-: | 
 | Windows | Mac | Linux | Debian | Ubuntu | 
 
-
-<!-- ## What am I working on ?
-
-| Project : | Starting date : | Status : | Involvements : |
-| :-: | :-: | :-: | :-: |
-| Graduation project : Developing a micro USB safe-station | 22/08/2022 | :hourglass_flowing_sand: | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" height="20"> |
-
- -->
