@@ -5,6 +5,9 @@
 </div>
 <br />
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/karinadelcheva)
+
+
 ## Whoami ?
 
 - <img src="https://avatars.githubusercontent.com/u/33750212?s=96&v=4" height="20"> I'm Karina :wave:
