@@ -1,11 +1,16 @@
 ### Hi! Welcome on my Github 😊
 <div align="center">
+  <h3> Here are some of my Github stats </h3>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=karinadelcheva&theme=tokyonight_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=karinadelcheva&theme=tokyonight_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
 </div>
 <br />
+<div align="center">
+  <h3> ... and LeetCode stats </h3>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/karinadelcheva)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/karinadelcheva)
+</div>
+<br />
 
 
 ## Whoami ?
